@@ -1,0 +1,39 @@
+.image_box{
+    height: 230px;
+    width: 100%;
+    /* border: 1px solid #000000; */
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image_box img{
+    height: auto;
+    width: 100%;
+}
+.cross_price{
+    text-decoration: line-through;
+}
+
+
+
+
+
+
+
+/* Old Design Code */
+
+/* .image_box{
+    height: 230px;
+    width: 300px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+/* .image_box img{
+    height: auto;
+    width: 100%;
+} */
